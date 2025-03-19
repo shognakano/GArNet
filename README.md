@@ -1,4 +1,4 @@
- GArNet can optimize mutation combination by adopting the following calculation steps: 
+   GArNet can optimize mutation combination by adopting the following calculation steps: 
  running short generation of virtual evolution by GAOptimizer and selection of mutations 
  by summation of the results based on network theory.The mutation candidates were selected
  from the libraries containing homologs of sequence of target protein. 
